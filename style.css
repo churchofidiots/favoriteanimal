@@ -4,10 +4,18 @@ h1, h6
     font-family: 'Times New Roman', Times, serif;
 }
 
-article
+body
 {
     background-color: rgb(63, 63, 113);
     background-image: url('https://images.unsplash.com/photo-1549074862-6173e20d02a8?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D');
+    color:teal;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+article
+{
+    background-color: rgb(63, 63, 113);
+    background-image: url('https://www.shutterstock.com/image-vector/sea-wave-one-line-drawing-260nw-2352511069.jpg');
     color:teal;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
