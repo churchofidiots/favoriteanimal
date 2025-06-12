@@ -4,7 +4,7 @@ h1, h3, h5
     font-family: 'Times New Roman', Times, serif;
 }
 
-body
+main
 {
     background-color: rgb(63, 63, 113);
     background-image: url('https://images.unsplash.com/photo-1549074862-6173e20d02a8?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA==');
