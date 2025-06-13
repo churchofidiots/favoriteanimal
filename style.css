@@ -50,13 +50,13 @@ article
     grid-template-columns: repeat(3, 1fr);
     gap: 10px;
     padding: 10px;
-    background-color: blueviolet;
+    background-color: rgb(41, 63, 125);
 }
 
 .item2
 {
-    background-color: goldenrod;
-    color: peachpuff;
+    background-color: rgb(140, 189, 220);
+    color: rgb(17, 17, 123);
     padding: 20px;
     text-align: center;
     font-size: 16px;
