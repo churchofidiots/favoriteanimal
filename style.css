@@ -53,16 +53,11 @@ article
     background-color: blueviolet;
 }
 
-,.item2
+.item2
 {
     background-color: goldenrod;
     color: peachpuff;
     padding: 20px;
     text-align: center;
     font-size: 16px;
-}
-
-.header
-{
-    grid-area: header;
 }
