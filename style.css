@@ -61,3 +61,8 @@ article
     text-align: center;
     font-size: 16px;
 }
+
+.header
+{
+    grid-area: header;
+}
